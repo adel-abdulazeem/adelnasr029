@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
 <h3 align="center">Software Developer</h3>
-
+<p align="center">
+  <a href="https://adelabdulazeem.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="www.linkedin.com/in/adel-abdulazeem" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/Adel_abdulazeem" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://wellfound.com/u/adel-abdulazeem" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://adelabdulazeem.netlify.app/images/Adel_Abdulazeem_-_Software_Developer.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
 - 🔭 I’m currently working on **Digital Resturant Menu**
