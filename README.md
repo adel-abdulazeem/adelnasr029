@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app/](https://adelabdulazeem.netlify.app/)
 
-- 💬 Ask me about **How to build the of your dreams and mondernize your web presence**
+- 💬 Ask me about **How to build the site of your dreams and how to mondernize your web presence**
 
 - 📫 How to reach me **adelnasr029@gmail.com**
 
