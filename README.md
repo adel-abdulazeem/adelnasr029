@@ -19,7 +19,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Resturant Menu**
+- 🔭 I’m currently working on **Digital Resturant Menu project**
 
 - 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app/](https://adelabdulazeem.netlify.app/)
 
