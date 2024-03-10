@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app/](https://adelabdulazeem.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about **How to build the of your dreams and mondernize your web presence**
 
 - 📫 How to reach me **adelnasr029@gmail.com**
 
