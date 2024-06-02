@@ -16,6 +16,10 @@
   <a href="https://adelabdulazeem.netlify.app/images/Adel_Abdulazeem_-_Software_Developer.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
+   </a>
+  <a href="https://adelabdulazeem.netlify.app/images/mvc_lecture.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=MVC Lecture&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 </p>
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
