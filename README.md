@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
 <h3 align="center">Software Developer</h3>
-![Codewars](https://www.codewars.com/users/Adel%20Abdulazeem/badges/large)
 
 <p align="center">
   <a href="https://adelabdulazeem.netlify.app" target="_blank">
@@ -23,6 +22,8 @@
       <img src="https://img.shields.io/static/v1?label=|&message=MVC Lecture&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+![Codewars](https://www.codewars.com/users/Adel%20Abdulazeem/badges/large)
+
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
 - 🔭 I’m currently working on **Digital Resturant Menu project**
