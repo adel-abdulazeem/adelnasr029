@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Chairs Store</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="#">
             <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/636f9259-7a6b-45b0-a8b1-6121fe66e6f5" width="100%" alt=""/>
         </a>
         <br />
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> </p>
+        <p><strong> Node.js, Express, MongoDb, ejs, Javascript & Bootstrap,</strong> </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Pizza Restaurant Website</h3>
