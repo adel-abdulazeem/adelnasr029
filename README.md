@@ -56,11 +56,11 @@
   <a href="https://github.com/adelnasr029/chairs-store-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://x.com/Adel_abdulazeem/status/1803869241898070445" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong> Node.js, Express, MongoDb, ejs, Javascript & Bootstrap,</strong> </p>
+        <p><strong> Node.js, Express, MongoDb, ejs, Javascript & Bootstrap.</strong> </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Pizza Restaurant Website</h3>
