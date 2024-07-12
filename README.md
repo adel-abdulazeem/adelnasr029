@@ -77,13 +77,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Bootstrap & Javascript</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, Bootstrap & Javascript</strong></p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">adelabdulazeem.netlify.app</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://adelabdulazeem.netlify.app/">
           <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/ba642fdc-7f10-40cb-ab89-21ed5c512315" width="100%" alt="Portfolio"/>
