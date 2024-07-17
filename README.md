@@ -46,7 +46,7 @@
 <table bordercolor="#66b2b2"> 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Add-To-Cart Website</h3>
+      <h3 align="center">Chairs-Store co Full-Stack Website</h3>
         <br />
         <a target="_blank" href="#">
             <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/636f9259-7a6b-45b0-a8b1-6121fe66e6f5" width="100%" alt=""/>
