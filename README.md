@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
-- 🔭 I’m currently refactoring my **100 hour project**
+- 🔭  As a Full-Stack Web Developer, I build web applications and design interactive websites. using technologies and frameworks like Express, Node.js, React, and MongoDB (MERN stack) for clients as a freelancer.
 
 - 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app/](https://adelabdulazeem.netlify.app/)
 
