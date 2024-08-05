@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
+![kittenStore](https://github.com/user-attachments/assets/acb990db-e2ff-41c0-94e3-96b2095661cd)![kittenStore](https://github.com/user-attachments/assets/3e612cec-95c3-41f1-96a1-53946472e9cf)<h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
@@ -98,6 +98,23 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+        <td width="50%" valign="top">
+      <h3 align="center">Kitten Store Website</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://github.com/user-attachments/assets/8a08ad5d-092d-4974-b3a9-a179c7713e78" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/adelnasr029/kitten-store-demo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong> React, Typescript & Bootstrap.</strong> </p>
     </td>
   </tr>
 </table>
