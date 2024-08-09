@@ -1,4 +1,4 @@
-![kittenStore](https://github.com/user-attachments/assets/acb990db-e2ff-41c0-94e3-96b2095661cd)![kittenStore](https://github.com/user-attachments/assets/3e612cec-95c3-41f1-96a1-53946472e9cf)<h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
+<h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
