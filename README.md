@@ -86,7 +86,7 @@
       <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://adelabdulazeem.netlify.app/">
-          <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/ba642fdc-7f10-40cb-ab89-21ed5c512315" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/user-attachments/assets/3228aedd-220c-4724-8f6d-db0f785994d2" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
