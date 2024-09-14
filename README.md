@@ -14,7 +14,7 @@
   <a href="https://wellfound.com/u/adel-abdulazeem" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://adelabdulazeem.netlify.app/images/Adel_Abdulazeem_-_Software_Developer.pdf" target="_blank">
+  <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
    </a>
@@ -29,7 +29,7 @@
 
 - 🔭  As a Full-Stack Web Developer, I build web applications and design interactive websites. using technologies and frameworks like Express, Node.js, React, and MongoDB (MERN stack).
 
-- 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app/](https://adelabdulazeem.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app](https://adelabdulazeem.netlify.app/)
 
 - 💬 Ask me about **How to build the site of your dreams and how to mondernize your web presence**
 
