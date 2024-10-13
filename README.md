@@ -46,7 +46,7 @@
 <table bordercolor="#66b2b2"> 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Chairs-Store co Full-Stack Website</h3>
+      <h3 align="center">Comfort Chair Co Full-Stack Website</h3>
         <br />
         <a target="_blank" href="#">
             <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/636f9259-7a6b-45b0-a8b1-6121fe66e6f5" width="100%" alt=""/>
@@ -63,7 +63,7 @@
         <p><strong> Node.js, Express, MongoDb, ejs, Javascript & Bootstrap.</strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Pizza Restaurant Website</h3>
+      <h3 align="center">Pizzella Restaurant Website</h3>
         <br />
       <a target="_blank" href="https://pizza-restaurant-webdemo.netlify.app/">
             <img src="https://github.com/adelnasr029/adelnasr029/assets/108176783/982f2f11-2cf5-4863-b667-9601c338a074" width="100%"  alt="Rigley 2"/>
@@ -100,7 +100,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Kitten Store Website</h3>
+      <h3 align="center">Kitty Haven Website</h3>
         <br />
         <a target="_blank" href="#">
             <img src="https://github.com/user-attachments/assets/8a08ad5d-092d-4974-b3a9-a179c7713e78" width="100%" alt=""/>
