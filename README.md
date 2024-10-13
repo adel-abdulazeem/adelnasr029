@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://adelabdulazeem.netlify.app" target="_blank">
