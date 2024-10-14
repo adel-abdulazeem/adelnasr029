@@ -14,9 +14,9 @@
   <a href="https://wellfound.com/u/adel-abdulazeem" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  </a> -->
    </a>
   <a href="https://adelabdulazeem.netlify.app/images/mvc_lecture.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=MVC Lecture&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
-- 🔭  As a Full-Stack Web Developer, I build web applications and design interactive websites. using technologies and frameworks like Express, Node.js, React, and MongoDB (MERN stack).
+- 🔭  As a Full-Stack Web Developer, I build web applications and design interactive websites. using technologies and frameworks like Express, Node.js, React, and MongoDB (MERN stack) as a main stack .
 
 - 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app](https://adelabdulazeem.netlify.app/)
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/adel abdulazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adel abdulazeem" height="30" width="40" /></a>
+<a href="https://adelabdulazeem.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adel abdulazeem" height="30" width="40" /></a>
 <a href="https://twitter.com/adel_abdulazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adel_abdulazeem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adel-abdulazeem-5632bb160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adel-abdulazeem-5632bb160" height="30" width="40" /></a>
 </p>
