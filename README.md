@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
    </a>
-  <a href="https://adelabdulazeem.netlify.app/images/mvc_lecture.pdf" target="_blank">
+  <a href="https://adelabdulazeem.netlify.app/post/sink/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=MVC Lecture&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
