@@ -124,3 +124,21 @@
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Adel%20Abdulazeem&name=true&top_languages=true)
+
+## Examples:
+Take a look at some of my work examples:
+
+ [My Portfolio](https://adelabdulazeem.netlify.app/)
+
+ [StarGazers APOD Web App](https://nasa-picture-every-day.netlify.app/)
+
+ [Hair Salon](https://leviathansalon.netlify.app/)
+
+ [Pizzela Restaurant website](https://pizza-restaurant-webdemo.netlify.app/)
+
+ [PlantPicker Project](https://github.com/adelnasr029/PlantPicker)
+
+ [ChatApp](https://github.com/adelnasr029/chatApp)
+ 
+ [Task Tracker](https://github.com/adelnasr029/task-tracker)
+
