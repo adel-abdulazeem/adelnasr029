@@ -27,13 +27,19 @@
 
 <p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
-- 🔭  As a Full-Stack Web Developer, I build web applications and design interactive websites. using technologies and frameworks like Express, Node.js, React, and MongoDB (MERN stack) as a main stack .
+## 🔭 Software Engineer
 
-- 👨‍💻 All of my projects are available at [https://adelabdulazeem.netlify.app](https://adelabdulazeem.netlify.app/)
+I specialize in building dynamic web applications and designing interactive websites using modern technologies and frameworks. My expertise centers around the **MERN stack** (MongoDB, Express, React, Node.js), with additional skills in **PostgreSQL**, **SQL**, **Astro**, **HTML**, **CSS**, **JavaScript**, and **SEO optimization**.
 
-- 💬 Ask me about **How to build the site of your dreams and how to mondernize your web presence**
+### 💼 Projects
+Check out all of my projects on my [portfolio website](https://adelabdulazeem.netlify.app).
 
-- 📫 How to reach me **adelnasr029@gmail.com**
+### 💬 Let’s Connect
+- Want to build the website of your dreams? I can help you modernize your web presence and bring your ideas to life!
+- Feel free to ask me about web development, from creating responsive designs to improving SEO for better visibility.
+
+### 📫 Contact
+You can reach me at: [adelnasr029@gmail.com](mailto:adelnasr029@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
