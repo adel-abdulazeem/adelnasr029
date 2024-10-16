@@ -32,7 +32,7 @@
 I specialize in building dynamic web applications and designing interactive websites using modern technologies and frameworks. My expertise centers around the **MERN stack** (MongoDB, Express, React, Node.js), with additional skills in **PostgreSQL**, **SQL**, **Astro**, **HTML**, **CSS**, **JavaScript**, and **SEO optimization**.
 
 ### 💼 Projects
-Check out all of my projects on my [portfolio website](https://adelabdulazeem.netlify.app).
+Check out all of my projects on my [portfolio website](https://adelabdulazeem.netlify.app/projects).
 
 ### 💬 Let’s Connect
 - Want to build the website of your dreams? I can help you modernize your web presence and bring your ideas to life!
