@@ -96,7 +96,7 @@ You can reach me at: [adelnasr029@gmail.com](mailto:adelnasr029@gmail.com)
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/adelnasr029/my-portfolio" target="_blank">
+  <a href="https://github.com/adelnasr029/astro-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://adelabdulazeem.netlify.app/" target="_blank">
@@ -116,9 +116,9 @@ You can reach me at: [adelnasr029@gmail.com](mailto:adelnasr029@gmail.com)
   <a href="https://github.com/adelnasr029/kitten-store-demo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong> React, Typescript & Bootstrap.</strong> </p>
     </td>
