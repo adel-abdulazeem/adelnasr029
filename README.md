@@ -50,6 +50,42 @@ You can reach me at: [adelnasr029@gmail.com](mailto:adelnasr029@gmail.com)
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2"> 
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">GymSubs Management System Demo Website</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://github.com/user-attachments/assets/770be37f-caec-448d-8622-a390db89995f" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/adelnasr029/gymSub" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://subs-manage-system.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong> Node.js, Express, MongoDb, React, React router</strong> </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">StoryBooks Project</h3>
+        <br />
+      <a target="_blank" href="https://pizza-restaurant-webdemo.netlify.app/">
+            <img src="https://github.com/user-attachments/assets/b6471902-c675-41aa-9dd4-5c5504d393b6" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/adelnasr029/create-your-story" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://pizza-restaurant-webdemo.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node.js, Express.js, MongoDB, Materialize UI, Twailwind</strong></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Comfort Chair Co Full-Stack Website</h3>
