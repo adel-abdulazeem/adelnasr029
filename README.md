@@ -5,10 +5,10 @@
   <a href="https://adelabdulazeem.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=My Portfolio&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/adel-abdulazeem/" target="_blank">
+  <a href="https://www.linkedin.com/in/adel-abdulazeem" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/Adel_abdulazeem" target="_blank">
+  <a href="https://x.com/adel_abdulazeem" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
 <!--   </a>
   <a href="https://wellfound.com/u/adel-abdulazeem" target="_blank">
@@ -25,7 +25,7 @@
 
 ![Codewars](https://www.codewars.com/users/Adel%20Abdulazeem/badges/large)
 
-<p align="left"> <a href="https://twitter.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
+<p align="left"> <a href="https://x.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
 
 ## 🔭 Software Engineer
 
@@ -39,13 +39,13 @@ Check out all of my projects on my [portfolio website](https://adelabdulazeem.ne
 - Feel free to ask me about web development, from creating responsive designs to improving SEO for better visibility.
 
 ### 📫 Contact
-You can reach me at: [adelnasr029@gmail.com](mailto:adelnasr029@gmail.com)
+You can reach me at: [adel_abdulazeem@outlook.com](mailto:adel_abdulazeem@outlook.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://adelabdulazeem.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adel abdulazeem" height="30" width="40" /></a>
+<a href="https://adelabdulazeem.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adel abdulazeem" height="30" width="40" /></a>
 <a href="https://twitter.com/adel_abdulazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adel_abdulazeem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adel-abdulazeem-5632bb160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adel-abdulazeem-5632bb160" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adel-abdulazeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adel-abdulazeem" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Projects</h1>
