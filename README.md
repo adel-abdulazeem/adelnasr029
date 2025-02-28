@@ -10,10 +10,7 @@
   </a>
   <a href="https://x.com/adel_abdulazeem" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-<!--   </a>
-  <a href="https://wellfound.com/u/adel-abdulazeem" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
+  </a>
   <a href="https://adelabdulazeem.netlify.app/assets/images/Adel_Abdulazeem_-_Software_Developer.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -25,7 +22,9 @@
 
 ![Codewars](https://www.codewars.com/users/Adel%20Abdulazeem/badges/large)
 
-<p align="left"> <a href="https://x.com/adel_abdulazeem" target="blank"><img src="https://img.shields.io/twitter/follow/adel_abdulazeem?logo=twitter&style=for-the-badge" alt="adel_abdulazeem" /></a> </p>
+[![Follow ME on X](https://img.shields.io/badge/Follow%20%40adel_abdulazeem-blue?style=for-the-badge&logo=x)](https://x.com/adel_abdulazeem)
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adel-abdulazeem)
 
 ## 🔭 Software Engineer
 
