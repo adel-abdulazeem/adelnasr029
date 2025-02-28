@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adel Abdulazeem</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center"> Hi 👋, I'm Adel Abdulazeem</h1>
+<h3 align="center">👨‍💻 Software Engineer</h3>
  
 <p align="center">
   <a href="https://adelabdulazeem.netlify.app" target="_blank">
@@ -26,7 +26,7 @@
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adel-abdulazeem)
 
-## 🔭 Software Engineer
+## 💻 🛠️ Software Engineer
 
 I specialize in building dynamic web applications and designing interactive websites using modern technologies and frameworks. My expertise centers around the **MERN stack** (MongoDB, Express, React, Node.js), with additional skills in **PostgreSQL**, **SQL**, **Astro**, **HTML**, **CSS**, **JavaScript**, and **SEO optimization**.
 
