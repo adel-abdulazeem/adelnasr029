@@ -191,13 +191,8 @@ You can reach me at: [adel_abdulazeem@outlook.com](mailto:adel_abdulazeem@outloo
 ## Examples:
 Take a look at some of my work examples:
 
- [My Portfolio](https://adelabdulazeem.netlify.app/)
-
+[MediPrep data management system](https://github.com/adel-abdulazeem/MediPrep)
  [StarGazers APOD Web App](https://nasa-picture-every-day.netlify.app/)
-
- [Hair Salon](https://leviathansalon.netlify.app/)
-
- [Pizzela Restaurant website](https://pizza-restaurant-webdemo.netlify.app/)
 
  [PlantPicker Project](https://github.com/adel-abdulazeem/PlantPicker)
 
